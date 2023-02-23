@@ -1,2 +1,3 @@
 #!/bin/bash
-touch /$PATH/action
+cd $PATH
+touch action
